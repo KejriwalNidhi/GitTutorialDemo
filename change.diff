@@ -1,0 +1,8 @@
+--- File1.txt	2020-02-02 20:52:28.799383600 +0530
++++ File2.txt	2020-02-02 20:45:03.084824600 +0530
+@@ -1,2 +1 @@
+-Hye
+-Nidhi is my name.
+\ No newline at end of file
++Hello I am just a raw text file.
+\ No newline at end of file
